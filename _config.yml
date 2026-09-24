@@ -17,7 +17,7 @@ repository               : "ysbroni1234/ysbroni1234.github.io" # Verify this mat
 # Site Author - Controls the left-hand sidebar information
 author:
   # Biographic information
-  avatar           : "profile.png" # Place your profile picture named profile.png in your repository's images folder
+  avatar: "/images/profile.png" # Place your profile picture named profile.png in your repository's images folder
   name             : "YUNUSA SULE BALA"
   pronouns         : # example: "he"  
   bio              : "AI Engineer & ML Researcher focused on generative models, multi-agent systems, and MLOps pipelines."
