@@ -8,19 +8,17 @@ locale                   : "en-US"
 site_theme               : "air"
 title                    : "YUNUSA SULE BALA | AI Engineer & ML Researcher"
 title_separator          : "-"
-# Basic Site Settings
 name                     : &name "YUNUSA SULE BALA"
 description              : &description "Academic and research portfolio of Yunusa Sule Bala, specializing in Generative AI, MLOps, and Distributed Learning Systems."   
-url                      : "https://github.io" 
+url                      : "https://github.io"
 baseurl                  : "" 
-repository               : "yusubaroni/yusubaroni.github.io" 
+repository               : "yusubaroni/yusubaroni.github.io"
 
 # Site Author - Controls the left-hand sidebar information
 author:
   # Biographic information
-  avatar           : "/images/profile.png" # Updated folder path to match your profile picture
+  avatar           : "/images/profile.png" # Points directly to your image in the images folder
   name             : "YUNUSA SULE BALA"
-
   pronouns         : # example: "he"  
   bio              : "AI Engineer & ML Researcher focused on generative models, multi-agent systems, and MLOps pipelines."
   location         : "Kano, Nigeria"
@@ -47,7 +45,7 @@ author:
   bitbucket        : 
   codepen          : 
   dribbble         : 
-  github           : "ysbroni1234" # Put your active GitHub account username here
+  github           : "yusubaroni"
   kaggle           :   
   stackoverflow    :     
 
@@ -62,7 +60,7 @@ author:
   keybase          : 
   instagram        : 
   lastfm           : 
-  linkedin         : "yunusa-sule-bala" # Update with your exact LinkedIn URL slug if available
+  linkedin         : "yunusa-sule-bala"
   mastodon         : 
   medium           : 
   pinterest        : 
