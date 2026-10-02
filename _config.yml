@@ -8,17 +8,19 @@ locale                   : "en-US"
 site_theme               : "air"
 title                    : "YUNUSA SULE BALA | AI Engineer & ML Researcher"
 title_separator          : "-"
+# Basic Site Settings
 name                     : &name "YUNUSA SULE BALA"
 description              : &description "Academic and research portfolio of Yunusa Sule Bala, specializing in Generative AI, MLOps, and Distributed Learning Systems."   
-url                      : "https://github.io" # Verify this matches your exact GitHub username
+url                      : "https://github.io" 
 baseurl                  : "" 
-repository               : "ysbroni1234/ysbroni1234.github.io" # Verify this matches your exact repository
+repository               : "yusubaroni/yusubaroni.github.io" 
 
 # Site Author - Controls the left-hand sidebar information
 author:
   # Biographic information
-  avatar: "profile.jpg" # Place your profile picture named profile.png in your repository's images folder
+  avatar           : "/images/profile.png" # Updated folder path to match your profile picture
   name             : "YUNUSA SULE BALA"
+
   pronouns         : # example: "he"  
   bio              : "AI Engineer & ML Researcher focused on generative models, multi-agent systems, and MLOps pipelines."
   location         : "Kano, Nigeria"
