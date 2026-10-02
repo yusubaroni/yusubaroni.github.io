@@ -17,7 +17,7 @@ repository               : "yusubaroni/yusubaroni.github.io"
 # Site Author - Controls the left-hand sidebar information
 author:
   # Biographic information
-  avatar           : "/images/profile.png" # Points directly to your image in the images folder
+  avatar           : "/images/profile.jpg" # Points directly to your image in the images folder
   name             : "YUNUSA SULE BALA"
   pronouns         : # example: "he"  
   bio              : "AI Engineer & ML Researcher focused on generative models, multi-agent systems, and MLOps pipelines."
